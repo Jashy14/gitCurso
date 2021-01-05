@@ -5,3 +5,6 @@ git commit : sirve para agregar un cambio del proyecto
 git --global user.email : es para registrar el email de la persona que hizo los cambips
 git --global user.name : sirve para registrar el nombre del usuario
 git log : sirve para ver cuaes fueron los cambios quien fue mas el mensaje 
+git diff : sirve para ver la diferencia del codigo nuevo con el anterior
+
+si quieres nque git ignore una carpeta tiene que crear un archivo llamado .gitignore

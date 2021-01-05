@@ -1,0 +1,7 @@
+git init : es para inicializar un repositorio 
+git status: nos devuelve todos los archivos que estamos siguiendo
+git add: nos permte seguir los archivos
+git commit : sirve para agregar un cambio del proyecto 
+git --global user.email : es para registrar el email de la persona que hizo los cambips
+git --global user.name : sirve para registrar el nombre del usuario
+git log : sirve para ver cuaes fueron los cambios quien fue mas el mensaje 
